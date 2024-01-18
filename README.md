@@ -1,11 +1,11 @@
-<h3 align="center">Hi 👋, I'm Taylan Özgür Ertaş</h3>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<h3 align="center">Hi 👋, i'm taylan özgür ertaş</h3>
+<h3 align="center">a passionate mobile developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter Framework, JavaScript, Node.js**
+- 🌱 i'm currently learning **Dart, Flutter Framework, JavaScript, Node.js**
 
 - 📫 How to reach me **tylnozgr209@icloud.com**
 
-- ⚡ Fun fact **I started all of these with Visual Basic 6.0 xd**
+- ⚡ Fun fact **i started all of these with visual basic 6.0 xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
