@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Taylan Özgür Ertaş</h2>
+<h3 align="center">Hi 👋, I'm Taylan Özgür Ertaş</h3>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter Framework, JavaScript, Node.js**
