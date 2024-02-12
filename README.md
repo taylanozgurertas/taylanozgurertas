@@ -1,7 +1,7 @@
 <h3 align="center">hi 👋, i'm taylan özgür ertaş</h3>
 <h3 align="center">a passionate mobile developer from Turkey</h3>
 
-- 🌱 i'm currently learning **Dart, Flutter Framework, JavaScript, Node.js**
+- 🌱 i'm currently learning **Dart, Flutter, JavaScript, Node.js**
 
 - 📫 how to reach me **tylnozgr209@icloud.com**
 
