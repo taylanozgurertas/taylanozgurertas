@@ -1,5 +1,5 @@
 <h3 align="center">hi 👋, i'm taylan özgür ertaş</h3>
-<h3 align="center">a passionate mobile developer from Turkey</h3>
+<h3 align="center">i'm just a guy who's good with computers</h3>
 
 - 🌱 i'm currently learning **Dart, Flutter, JavaScript, Node.js**
 
