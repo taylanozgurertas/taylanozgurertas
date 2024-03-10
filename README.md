@@ -1,11 +1,11 @@
-<h3 align="center">hi 👋, i'm taylan özgür ertaş</h3>
-<h3 align="center">i'm just a guy who's good with computers</h3>
+<h3 align="center">hi 👋, I'm taylan özgür ertaş</h3>
+<h3 align="center">I'm just a guy who's good with computers</h3>
 
-- 🌱 i'm currently learning **Dart, Flutter, JavaScript, Node.js**
+- 🌱 I'm currently learning **Dart, Flutter, JavaScript, Node.js**
 
 - 📫 how to reach me **tylnozgr209@icloud.com**
 
-- ⚡ fun fact **i started all of these with visual basic 6.0 xd**
+- ⚡ fun fact **I started all of these with visual basic 6.0 xd**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
