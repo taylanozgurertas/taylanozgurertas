@@ -1,4 +1,4 @@
-<h3 align="center">hi 👋, I'm taylan özgür ertaş</h3>
+<h3 align="center">hi 👋, I'm Taylan</h3>
 <h3 align="center">I'm just a guy who's good with computers</h3>
 
 - 🌱 I'm currently learning **Dart, Flutter, JavaScript, Node.js**
