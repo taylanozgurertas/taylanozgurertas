@@ -2,9 +2,9 @@
 
 - 🌱 I'm currently learning **Dart, Flutter, JavaScript, Node.js**
 
-- 📫 how to reach me **tylnozgr209@icloud.com**
+- 📫 How to reach me **tylnozgr209@icloud.com**
 
-- ⚡ fun fact **I started all of these with visual basic 6.0 xd**
+- ⚡ Fun fact **I started all of these with visual basic 6.0 xd**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
